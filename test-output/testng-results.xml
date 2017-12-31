@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="117176" started-at="2017-12-25T00:25:33Z" finished-at="2017-12-25T00:27:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="117176" started-at="2017-12-25T00:25:33Z" finished-at="2017-12-25T00:27:30Z">
+      <class name="com.company.freecrm.testcases.TC001_VerifyLoginPage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.company.freecrm.testcases.TC001_VerifyLoginPage@4678c730]" name="setup" is-config="true" duration-ms="17760" started-at="2017-12-24T19:25:37Z" finished-at="2017-12-24T19:25:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLoginWithValidCredencials(java.lang.String, java.lang.String)[pri:0, instance:com.company.freecrm.testcases.TC001_VerifyLoginPage@4678c730]" name="verifyLoginWithValidCredencials" duration-ms="18974" started-at="2017-12-24T19:25:55Z" data-provider="getLoginData" finished-at="2017-12-24T19:26:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samskp]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredencials -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.company.freecrm.testcases.TC001_VerifyLoginPage@4678c730]" name="tearDown" is-config="true" duration-ms="1999" started-at="2017-12-24T19:26:14Z" finished-at="2017-12-24T19:26:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.company.freecrm.testcases.TC001_VerifyLoginPage@4678c730]" name="setup" is-config="true" duration-ms="11024" started-at="2017-12-24T19:26:16Z" finished-at="2017-12-24T19:26:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLoginWithValidCredencials(java.lang.String, java.lang.String)[pri:0, instance:com.company.freecrm.testcases.TC001_VerifyLoginPage@4678c730]" name="verifyLoginWithValidCredencials" duration-ms="10924" started-at="2017-12-24T19:26:27Z" data-provider="getLoginData" finished-at="2017-12-24T19:26:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samskp1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass124]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredencials -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.company.freecrm.testcases.TC001_VerifyLoginPage@4678c730]" name="tearDown" is-config="true" duration-ms="1844" started-at="2017-12-24T19:26:38Z" finished-at="2017-12-24T19:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.company.freecrm.testcases.TC001_VerifyLoginPage@4678c730]" name="setup" is-config="true" duration-ms="10714" started-at="2017-12-24T19:26:40Z" finished-at="2017-12-24T19:26:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLoginWithValidCredencials(java.lang.String, java.lang.String)[pri:0, instance:com.company.freecrm.testcases.TC001_VerifyLoginPage@4678c730]" name="verifyLoginWithValidCredencials" duration-ms="11618" started-at="2017-12-24T19:26:51Z" data-provider="getLoginData" finished-at="2017-12-24T19:27:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samskp2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass125]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredencials -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.company.freecrm.testcases.TC001_VerifyLoginPage@4678c730]" name="tearDown" is-config="true" duration-ms="1233" started-at="2017-12-24T19:27:02Z" finished-at="2017-12-24T19:27:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.company.freecrm.testcases.TC001_VerifyLoginPage@4678c730]" name="setup" is-config="true" duration-ms="12602" started-at="2017-12-24T19:27:03Z" finished-at="2017-12-24T19:27:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLoginWithValidCredencials(java.lang.String, java.lang.String)[pri:0, instance:com.company.freecrm.testcases.TC001_VerifyLoginPage@4678c730]" name="verifyLoginWithValidCredencials" duration-ms="11844" started-at="2017-12-24T19:27:16Z" data-provider="getLoginData" finished-at="2017-12-24T19:27:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samskp3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass126]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredencials -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.company.freecrm.testcases.TC001_VerifyLoginPage@4678c730]" name="tearDown" is-config="true" duration-ms="2255" started-at="2017-12-24T19:27:28Z" finished-at="2017-12-24T19:27:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.company.freecrm.testcases.TC001_VerifyLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
